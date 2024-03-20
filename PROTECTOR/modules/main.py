@@ -12,9 +12,9 @@ from PROTECTOR import PROTECTOR as app
 from config import *
 # Constants
 FORBIDDEN_KEYWORDS = ["porn", "xxx", "NCERT", "ncert", "ans", "Pre-Medical", "kinematics", "Experiments", "Experiment", "experiment", "experimens", "XII", "page", "Ans", "meiotic", "divisions", "System.in", "Scanner", "void", "nextInt", "JEE", "ALLEN", "NEET", "jee", "neet", "ans"]
-START_TEXT = """<b> 🤖 ᴄᴏᴘʏʀɪɢʜᴛ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🛡️ </b>
+START_TEXT = """<b> 🫧 𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝘁𝗲𝗰𝘁𝗼𝗿 🛡🫧 </b>
 
-ʜᴇʏ ᴛʜɪs ɪs ᴄᴏᴘʏʀɪɢʜᴛ ᴘʀᴏᴛᴇᴄᴛᴏʀ ʀᴏʙᴏᴛ🤖!\n ᴡᴇ ᴇɴsᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ sᴇᴄᴜʀɪᴛʏ💻 !\n ᴛʜɪs ʙᴏᴛ ᴄᴀɴ ʀᴇᴍᴏᴠᴇ ʟᴏɴɢ ᴛᴇxᴛ ᴇᴅɪᴛᴇᴅ ᴍsɢs , ᴀɴᴅ ᴄᴏᴘʏʀɪɢʜᴛ ᴍᴀᴛᴇʀɪᴀʟ...!\nᴊᴜsᴛ ᴀᴅᴅ ʙᴏᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴀᴅᴍɪɴ !!\nғᴇᴇʟ ғʀᴇᴇ ғʀᴏᴍ ᴀɴʏ ᴛʏᴘᴇ ᴏғ ᴄᴏᴘʏʀɪɢʜᴛ... ! 🛡! 🤝🔐 """
+ᴛʜᴀɴᴋ ᴜ ꜰᴏʀ ꜱᴛᴀʀᴛɪɴɢ ᴛʜɪꜱ ʙᴏᴛ🤖!\n ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴜꜱᴇꜰᴜʟ ꜰᴏʀ  ɢʀᴏᴜᴘ ꜱᴇᴄᴜʀɪᴛʏ 💻 !\n  ᴛʜɪꜱ ʙᴏᴛ ᴄᴀɴ ʀᴇᴍᴏᴠᴇ ʟᴏɴɢ ᴛᴇxᴛ ᴇᴅɪᴛᴇᴅ ᴍꜱɢ  ᴀɴᴅ ᴄᴏᴘʏʀɢɪʜᴛ ᴍᴀᴛᴇʀɪᴀʟ ʟɪᴋᴇ ꜰɪʟᴇꜱ...!\nᴊᴜsᴛ  ᴀᴅᴅ ᴛʜɪꜱ ʙᴏᴛ ɪɴ ᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴀᴅᴍɪɴ  ꜰᴏʀ ꜱᴇᴄᴜʀᴇ ꜰʀᴏᴍ ᴄᴏᴘʏʀɢɪʜᴛ !!\nᴛʜᴀɴᴋᴋ ᴜʜ... ! 🛡! 💗 """
 
 
 ##---------------------------------------------------------------------------------
@@ -27,16 +27,16 @@ async def start_command_handler(_, msg):
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
     await msg.reply_photo(
-        photo="https://telegra.ph/file/8f6b2cc26b522a252b16a.jpg",
+        photo="https://graph.org/file/be68eb8d6636871bc6aca.jpg",
         caption=START_TEXT,
         reply_markup=reply_markup
     )
 
 # Callback Query Handler
 gd_buttons = [
-    [InlineKeyboardButton("ᴏᴡɴᴇʀ", url=f"https://t.me/JARVIS_V2"),
+    [InlineKeyboardButton("𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿", url=f"https://t.me/Noob_Coderzz"),
      InlineKeyboardButton("• ʙᴀᴄᴋ •", callback_data="back_to_start"),
-     InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/JARVIS_X_SUPPORT")]
+     InlineKeyboardButton("𝗨𝗽𝗱𝗮𝘁𝗲𝘀", url="https://t.me/x_coderzz_bots")]
 ]
 
 @app.on_callback_query(filters.regex("vip_back"))
@@ -82,7 +82,7 @@ async def activevc(_, message: Message):
         f"➪ꜱᴛᴏʀᴀɢᴇ: {size_formatter(storage.total)} [ᴛᴏᴛᴀʟ]\n"
         f"➪{size_formatter(storage.used)} [ᴜsᴇᴅ]\n"
         f"➪{size_formatter(storage.free)} [ғʀᴇᴇ]\n"
-        f"➪ᴊᴀʀᴠɪs ᴠᴇʀsɪᴏɴ: {python_version},"
+        f"➪ᴄᴏᴅᴇʀᴢ ᴠᴇʀsɪᴏɴ: {python_version},"
     )
 
     await message.reply(reply_text, quote=True)
