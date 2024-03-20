@@ -3,4 +3,3 @@ build:
     worker: Dockerfile
 run:
   mrdaxx: python3 -m PROTECTOR
-  
