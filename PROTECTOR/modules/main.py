@@ -34,7 +34,7 @@ async def start_command_handler(_, msg):
 
 # Callback Query Handler
 gd_buttons = [
-    [InlineKeyboardButton("𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿", url=f"https://t.me/Noob_Coderzz"),
+    [InlineKeyboardButton("𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿", url=f"https://t.me/Noob_Coderzzz"),
      InlineKeyboardButton("• ʙᴀᴄᴋ •", callback_data="back_to_start"),
      InlineKeyboardButton("𝗨𝗽𝗱𝗮𝘁𝗲𝘀", url="https://t.me/x_coderzz_bots")]
 ]
