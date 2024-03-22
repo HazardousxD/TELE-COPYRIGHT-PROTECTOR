@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Noobcoderz1/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/TEAM-CODERZZZ/count.svg" />
 </p>
 <h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=350&lines=𝗦𝘁𝗿𝗶𝗻𝗴+𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿+𝗕𝗼𝘁"></b></h1>
 
@@ -13,7 +13,7 @@
 <details>
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Noobcoderz1/TELE-COPYRIGHT-PROTECTOR"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/TEAM-CODERZZZ/TELE-COPYRIGHT-PROTECTOR"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </details>
 
 
