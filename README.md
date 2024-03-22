@@ -18,7 +18,7 @@
 
 
 # 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 💗🥀
-<a href="https://t.me/Noob_Coderzz"><img title="Telegram" src="https://img.shields.io/badge/CODERZ-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/Coderzzz_Support"><img title="Telegram" src="https://img.shields.io/badge/CODERZ-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=noobcoderzz8@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://youtube.com/@user-bz2dc2qt8r"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://instagram.com/noob_coderzz"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
