@@ -21,8 +21,8 @@ START_TEXT = """<b> 🫧 𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 𝗣𝗿𝗼𝘁�
 @app.on_message(filters.command("start"))
 async def start_command_handler(_, msg):
     buttons = [
-        [InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
-        [InlineKeyboardButton("• ʜᴀɴᴅʟᴇʀ •", callback_data="vip_back")]
+        [InlineKeyboardButton("𝗔𝗱𝗱 𝗠𝗲", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
+        [InlineKeyboardButton("• 𝗛𝗮𝗻𝗱𝗹𝗲𝗿 •", callback_data="vip_back")]
         
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -34,7 +34,7 @@ async def start_command_handler(_, msg):
 
 # Callback Query Handler
 gd_buttons = [
-    [InlineKeyboardButton("𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿", url=f"https://t.me/dmcatelegram"),
+    [InlineKeyboardButton("𝗠𝗼𝗱𝗲𝗿𝗮𝘁𝗼𝗿", url=f"https://t.me/dmcatelegram"),
      InlineKeyboardButton("• ʙᴀᴄᴋ •", callback_data="back_to_start"),
      InlineKeyboardButton("𝗠𝗼𝗱𝗲𝗿𝗮𝘁𝗼𝗿", url="https://t.me/TelegramBR")]
 ]
