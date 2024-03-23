@@ -7,7 +7,7 @@
 </p>
 <h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=350&lines=𝗦𝘁𝗿𝗶𝗻𝗴+𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿+𝗕𝗼𝘁"></b></h1>
 
-<p align="center"><a href="https://t.me/YASH_RY_OWNER"><img src="https://graph.org/file/be68eb8d6636871bc6aca.jpg" width="600"></a></p>
+<p align="center"><a href="https://t.me/YASH_RY_OWNER"><img src="https://telegra.ph/file/689edf9a521463ad19d99.jpg" width="600"></a></p>
 
 # 𝐃𝐄𝐏𝐋𝐎𝐘𝐄𝐌𝐄𝐍𝐓✨🦋
 <details>
