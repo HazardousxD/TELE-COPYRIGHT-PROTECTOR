@@ -27,7 +27,7 @@ async def start_command_handler(_, msg):
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
     await msg.reply_photo(
-        photo="https://graph.org/file/be68eb8d6636871bc6aca.jpg",
+        photo="https://telegra.ph/file/689edf9a521463ad19d99.jpg",
         caption=START_TEXT,
         reply_markup=reply_markup
     )
@@ -36,7 +36,7 @@ async def start_command_handler(_, msg):
 gd_buttons = [
     [InlineKeyboardButton("𝗠𝗼𝗱𝗲𝗿𝗮𝘁𝗼𝗿", url=f"https://t.me/YASH_RY_OWNER"),
      InlineKeyboardButton("• ʙᴀᴄᴋ •", callback_data="back_to_start"),
-     InlineKeyboardButton("𝗠𝗼𝗱𝗲𝗿𝗮𝘁𝗼𝗿", url="https://t.me/JEEORNEETGRP")]
+     InlineKeyboardButton("𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/JEEORNEETGRP")]
 ]
 
 @app.on_callback_query(filters.regex("vip_back"))
