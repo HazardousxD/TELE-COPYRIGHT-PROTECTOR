@@ -34,9 +34,9 @@ async def start_command_handler(_, msg):
 
 # Callback Query Handler
 gd_buttons = [
-    [InlineKeyboardButton("𝗠𝗼𝗱𝗲𝗿𝗮𝘁𝗼𝗿", url=f"https://t.me/dmcatelegram"),
+    [InlineKeyboardButton("𝗠𝗼𝗱𝗲𝗿𝗮𝘁𝗼𝗿", url=f"https://t.me/YASH_RY_OWNER"),
      InlineKeyboardButton("• ʙᴀᴄᴋ •", callback_data="back_to_start"),
-     InlineKeyboardButton("𝗠𝗼𝗱𝗲𝗿𝗮𝘁𝗼𝗿", url="https://t.me/TelegramBR")]
+     InlineKeyboardButton("𝗠𝗼𝗱𝗲𝗿𝗮𝘁𝗼𝗿", url="https://t.me/JEEORNEETGRP")]
 ]
 
 @app.on_callback_query(filters.regex("vip_back"))
